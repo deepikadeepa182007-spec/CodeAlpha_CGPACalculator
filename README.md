@@ -26,4 +26,4 @@ and calculates the final CGPA.
 3. Select courses and enter grade details as prompted
 
 ## Author
-Deepika  this ok for 
+Deepika R
